@@ -17,39 +17,6 @@
                 }
             },
             "trusted_issuers": {
-                "ba49b559f93fc7c80b3729d47edd7c37d034803ac93c": {
-                    "name": "testIdp",
-                    "description": "testIdp",
-                    "openid_configuration_endpoint": "https://jans.test/.well-known/openid-configuration",
-                    "token_metadata": {
-                        "access_token": {
-                            "trusted": true,
-                            "entity_type_name": "Jans::Access_token",
-                            "required_claims": [
-                                "jti",
-                                "iss",
-                                "aud",
-                                "sub",
-                                "exp",
-                                "nbf"
-                            ],
-                            "principal_mapping": [
-                                "Jans::Workload"
-                            ]
-                        },
-                        "id_token": {
-                            "trusted": true,
-                            "entity_type_name": "Jans::id_token"
-                        },
-                        "userinfo_token": {
-                            "trusted": true,
-                            "entity_type_name": "Jans::Userinfo_token",
-                            "principal_mapping": [
-                                "Jans::User"
-                            ]
-                        }
-                    }
-                },
                 "1985d6d8767b87d752035c9f9c0078daf057ad2cd5ea": {
                     "name": "Gluu",
                     "description": "",
