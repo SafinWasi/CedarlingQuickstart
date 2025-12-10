@@ -18,9 +18,9 @@
             },
             "trusted_issuers": {
                 "1985d6d8767b87d752035c9f9c0078daf057ad2cd5ea": {
-                    "name": "Gluu",
+                    "name": "Jans",
                     "description": "",
-                    "openid_configuration_endpoint": "https://account.gluu.org/.well-known/openid-configuration",
+                    "openid_configuration_endpoint": "https://jans.test/.well-known/openid-configuration",
                     "token_metadata": {
                         "access_token": {
                             "trusted": true,
