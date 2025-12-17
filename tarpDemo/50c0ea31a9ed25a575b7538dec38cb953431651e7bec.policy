@@ -1,0 +1,9 @@
+@id("Describe the policy here")
+permit (
+  principal is Jans::User,
+  action == Jans::Action::"Read",
+  resource is Jans::SecretDocument
+) when {
+  principal has email &&
+  principal.email.domain == "example.com"
+};
