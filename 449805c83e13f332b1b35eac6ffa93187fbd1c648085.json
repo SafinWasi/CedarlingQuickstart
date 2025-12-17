@@ -44,6 +44,11 @@
                     "description": "user_can_monitor",
                     "creation_date": "2025-12-17T03:36:25.922696",
                     "policy_content": "QGlkKCJ1c2VyX2Nhbl9tb25pdG9yIikKcGVybWl0ICgKICBwcmluY2lwYWwgaXMgSmFuczo6VXNlciwKICBhY3Rpb24gPT0gSmFuczo6QWN0aW9uOjoiTW9uaXRvciIsCiAgcmVzb3VyY2UgaXMgSmFuczo6QXBwbGljYXRpb24KKTs="
+                },
+                "fe84f983188f1639a03ed77c0753fc893fbe0d4cf155": {
+                    "description": "editor_can_share",
+                    "creation_date": "2025-12-17T03:42:20.479615",
+                    "policy_content": "QGlkKCJlZGl0b3JfY2FuX3NoYXJlIikKcGVybWl0ICgKICBwcmluY2lwYWwgaW4gSmFuczo6Um9sZTo6IkVkaXRvciIsCiAgYWN0aW9uID09IEphbnM6OkFjdGlvbjo6IlNoYXJlIiwKICByZXNvdXJjZSBpcyBKYW5zOjpBcHBsaWNhdGlvbgopOw=="
                 }
             },
             "trusted_issuers": {
