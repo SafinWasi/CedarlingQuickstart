@@ -64,6 +64,11 @@
                     "description": "user_cannot_execute_on_public_network",
                     "creation_date": "2025-12-17T04:00:52.937385",
                     "policy_content": "QGlkKCJ1c2VyX2Nhbm5vdF9leGVjdXRlX29uX3B1YmxpY19uZXR3b3JrIikKZm9yYmlkICgKICBwcmluY2lwYWwgaXMgSmFuczo6VXNlciwKICBhY3Rpb24gPT0gSmFuczo6QWN0aW9uOjoiRXhlY3V0ZSIsCiAgcmVzb3VyY2UgaXMgSmFuczo6QXBwbGljYXRpb24KKSB3aGVuIHsKICBjb250ZXh0IGhhcyBuZXR3b3JrX3R5cGUgJiYKICBjb250ZXh0Lm5ldHdvcmtfdHlwZSA9PSAicHVibGljIgp9Owo="
+                },
+                "e459eba6691d141497dd1317e44d3d5b3bdd9fd65150": {
+                    "description": "user_can_read_if_confidential_role",
+                    "creation_date": "2025-12-17T04:08:48.207025",
+                    "policy_content": "QGlkKCJ1c2VyX2Nhbl9yZWFkX2lmX2NvbmZpZGVudGlhbF9yb2xlIikKcGVybWl0ICgKICBwcmluY2lwYWwgaW4gSmFuczo6Um9sZTo6ImNvbmZpZGVudGlhbCIsCiAgYWN0aW9uID09IEphbnM6OkFjdGlvbjo6IlJlYWQiLAogIHJlc291cmNlIGlzIEphbnM6OlNlY3JldERvY3VtZW50Cik7"
                 }
             },
             "trusted_issuers": {
