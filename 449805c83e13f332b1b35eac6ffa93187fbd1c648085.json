@@ -99,6 +99,11 @@
                     "description": "user_can_read_if_email_is_example",
                     "creation_date": "2025-12-17T10:21:47.433255",
                     "policy_content": "QGlkKCJ1c2VyX2Nhbl9yZWFkX2lmX2VtYWlsX2lzX2V4YW1wbGUiKQpwZXJtaXQgKAogIHByaW5jaXBhbCBpcyBKYW5zOjpVc2VyLAogIGFjdGlvbiA9PSBKYW5zOjpBY3Rpb246OiJSZWFkIiwKICByZXNvdXJjZSBpcyBKYW5zOjpTZWNyZXREb2N1bWVudAopCndoZW4gewogIHByaW5jaXBhbCBoYXMgZW1haWwgJiYKICBwcmluY2lwYWwuZW1haWwuZG9tYWluID09ICJleGFtcGxlLmNvbSIKfTs="
+                },
+                "28e83add6e203af0d3814f06228e45a0eeb5c1269b08": {
+                    "description": "user_cannot_write_from_restricted_country",
+                    "creation_date": "2025-12-17T10:25:47.641641",
+                    "policy_content": "QGlkKCJ1c2VyX2Nhbm5vdF93cml0ZV9mcm9tX3Jlc3RyaWN0ZWRfY291bnRyeSIpCmZvcmJpZCAoCiAgcHJpbmNpcGFsIGlzIEphbnM6OlVzZXIsCiAgYWN0aW9uID09IEphbnM6OkFjdGlvbjo6IldyaXRlIiwKICByZXNvdXJjZSBpcyBKYW5zOjpTZWNyZXREb2N1bWVudAopIHdoZW4gewogIGNvbnRleHQgaGFzIGdlb2xvY2F0aW9uICYmCiAgY29udGV4dC5nZW9sb2NhdGlvbi5jb250YWlucygicmVzdHJpY3RlZCIpCn07"
                 }
             },
             "trusted_issuers": {
