@@ -19,6 +19,11 @@
                     "description": "user_can_read",
                     "creation_date": "2025-12-17T03:23:22.073817",
                     "policy_content": "QGlkKCJ1c2VyX2Nhbl9yZWFkIikKcGVybWl0ICgKICBwcmluY2lwYWwgaXMgSmFuczo6VXNlciwKICBhY3Rpb24gPT0gSmFuczo6QWN0aW9uOjoiUmVhZCIsCiAgcmVzb3VyY2UgaXMgSmFuczo6QXBwbGljYXRpb24KKTs="
+                },
+                "13b34711a196f382ade96677cefd513a2a6deff1b949": {
+                    "description": "admin_can_write_to_application",
+                    "creation_date": "2025-12-17T03:27:11.348191",
+                    "policy_content": "QGlkKCJhZG1pbl9jYW5fd3JpdGVfdG9fYXBwbGljYXRpb24iKQpwZXJtaXQgKAogIHByaW5jaXBhbCBpbiBKYW5zOjpSb2xlOjoiQWRtaW4iLAogIGFjdGlvbiA9PSBKYW5zOjpBY3Rpb246OiJXcml0ZSIsCiAgcmVzb3VyY2UgaXMgSmFuczo6QXBwbGljYXRpb24KKTs="
                 }
             },
             "trusted_issuers": {
