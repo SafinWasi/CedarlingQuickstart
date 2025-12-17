@@ -89,6 +89,11 @@
                     "description": "user_can_read_in_corp_network",
                     "creation_date": "2025-12-17T10:15:23.244030",
                     "policy_content": "QGlkKCJ1c2VyX2Nhbl9yZWFkX2luX2NvcnBfbmV0d29yayIpCnBlcm1pdCAoCiAgcHJpbmNpcGFsIGlzIEphbnM6OlVzZXIsCiAgYWN0aW9uID09IEphbnM6OkFjdGlvbjo6IlJlYWQiLAogIHJlc291cmNlIGlzIEphbnM6OlNlY3JldERvY3VtZW50Cikgd2hlbiB7CiAgY29udGV4dCBoYXMgbmV0d29yayAmJgogIGNvbnRleHQubmV0d29yayA9PSAiY29ycCIKfTs="
+                },
+                "c367d06f19af8db1ec69354044334c799ff4cd2021ae": {
+                    "description": "user_cannot_read_if_fraudulent",
+                    "creation_date": "2025-12-17T10:16:52.386299",
+                    "policy_content": "QGlkKCJ1c2VyX2Nhbm5vdF9yZWFkX2lmX2ZyYXVkdWxlbnQiKQpmb3JiaWQgKAogIHByaW5jaXBhbCBpcyBKYW5zOjpVc2VyLAogIGFjdGlvbiA9PSBKYW5zOjpBY3Rpb246OiJSZWFkIiwKICByZXNvdXJjZSBpcyBKYW5zOjpTZWNyZXREb2N1bWVudAopIHdoZW4gewogIGNvbnRleHQgaGFzIGZyYXVkX2luZGljYXRvcnMgJiYKICBjb250ZXh0LmZyYXVkX2luZGljYXRvcnMuY29udGFpbnMoImhpZ2hfcmlzayIpCn07"
                 }
             },
             "trusted_issuers": {
