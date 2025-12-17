@@ -69,11 +69,6 @@
                     "description": "user_can_read_if_confidential_role",
                     "creation_date": "2025-12-17T04:08:48.207025",
                     "policy_content": "QGlkKCJ1c2VyX2Nhbl9yZWFkX2lmX2NvbmZpZGVudGlhbF9yb2xlIikKcGVybWl0ICgKICBwcmluY2lwYWwgaW4gSmFuczo6Um9sZTo6ImNvbmZpZGVudGlhbCIsCiAgYWN0aW9uID09IEphbnM6OkFjdGlvbjo6IlJlYWQiLAogIHJlc291cmNlIGlzIEphbnM6OlNlY3JldERvY3VtZW50Cik7"
-                },
-                "870eaec25d9c8e9a642c4ed4d08b1ad480e6bc1348c7": {
-                    "description": "user_cannot_write_to_secretdocument",
-                    "creation_date": "2025-12-17T04:09:39.574134",
-                    "policy_content": "QGlkKCJ1c2VyX2Nhbm5vdF93cml0ZV90b19zZWNyZXRkb2N1bWVudCIpCmZvcmJpZCAoCiAgcHJpbmNpcGFsIGlzIEphbnM6OlVzZXIsCiAgYWN0aW9uID09IEphbnM6OkFjdGlvbjo6IldyaXRlIiwKICByZXNvdXJjZSBpcyBKYW5zOjpTZWNyZXREb2N1bWVudAopOw=="
                 }
             },
             "trusted_issuers": {
