@@ -49,6 +49,11 @@
                     "description": "editor_can_share",
                     "creation_date": "2025-12-17T03:42:20.479615",
                     "policy_content": "QGlkKCJlZGl0b3JfY2FuX3NoYXJlIikKcGVybWl0ICgKICBwcmluY2lwYWwgaW4gSmFuczo6Um9sZTo6IkVkaXRvciIsCiAgYWN0aW9uID09IEphbnM6OkFjdGlvbjo6IlNoYXJlIiwKICByZXNvdXJjZSBpcyBKYW5zOjpBcHBsaWNhdGlvbgopOw=="
+                },
+                "4ab79a92feac06a1a005373b741ed50e07d23d98f9a5": {
+                    "description": "user_can_tag",
+                    "creation_date": "2025-12-17T03:46:40.203758",
+                    "policy_content": "QGlkKCJ1c2VyX2Nhbl90YWciKQpwZXJtaXQgKAogIHByaW5jaXBhbCBpcyBKYW5zOjpVc2VyLAogIGFjdGlvbiA9PSBKYW5zOjpBY3Rpb246OiJUYWciLAogIHJlc291cmNlIGlzIEphbnM6OkFwcGxpY2F0aW9uCik7"
                 }
             },
             "trusted_issuers": {
