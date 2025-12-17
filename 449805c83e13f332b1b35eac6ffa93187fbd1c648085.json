@@ -74,6 +74,11 @@
                     "description": "user_cannot_write_to_secretdocument",
                     "creation_date": "2025-12-17T04:16:33.112423",
                     "policy_content": "QGlkKCJ1c2VyX2Nhbm5vdF93cml0ZV90b19zZWNyZXRkb2N1bWVudCIpCmZvcmJpZCAoCiAgcHJpbmNpcGFsIGlzIEphbnM6OlVzZXIsCiAgYWN0aW9uID09IEphbnM6OkFjdGlvbjo6IldyaXRlIiwKICByZXNvdXJjZSBpcyBKYW5zOjpTZWNyZXREb2N1bWVudAopOw=="
+                },
+                "9e2f1520bd292765609e8ce57add8d3c134e3a91759d": {
+                    "description": "security_admin_can_write_to_secretdocument",
+                    "creation_date": "2025-12-17T04:17:56.420102",
+                    "policy_content": "QGlkKCJzZWN1cml0eV9hZG1pbl9jYW5fd3JpdGVfdG9fc2VjcmV0ZG9jdW1lbnQiKQpwZXJtaXQgKAogIHByaW5jaXBhbCBpbiBKYW5zOjpSb2xlOjoic2VjdXJpdHktYWRtaW4iLAogIGFjdGlvbiA9PSBKYW5zOjpBY3Rpb246OiJXcml0ZSIsCiAgcmVzb3VyY2UgaXMgSmFuczo6U2VjcmV0RG9jdW1lbnQKKTs="
                 }
             },
             "trusted_issuers": {
