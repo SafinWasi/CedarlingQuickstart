@@ -39,6 +39,11 @@
                     "description": "user_can_compare",
                     "creation_date": "2025-12-17T03:31:56.340687",
                     "policy_content": "QGlkKCJ1c2VyX2Nhbl9jb21wYXJlIikKcGVybWl0ICgKICBwcmluY2lwYWwgaXMgSmFuczo6VXNlciwKICBhY3Rpb24gPT0gSmFuczo6QWN0aW9uOjoiQ29tcGFyZSIsCiAgcmVzb3VyY2UgaXMgSmFuczo6QXBwbGljYXRpb24KKTs="
+                },
+                "b5111ecf0d218da2cdbece83aeb77cb6b479d3b5d85c": {
+                    "description": "user_can_monitor",
+                    "creation_date": "2025-12-17T03:36:25.922696",
+                    "policy_content": "QGlkKCJ1c2VyX2Nhbl9tb25pdG9yIikKcGVybWl0ICgKICBwcmluY2lwYWwgaXMgSmFuczo6VXNlciwKICBhY3Rpb24gPT0gSmFuczo6QWN0aW9uOjoiTW9uaXRvciIsCiAgcmVzb3VyY2UgaXMgSmFuczo6QXBwbGljYXRpb24KKTs="
                 }
             },
             "trusted_issuers": {
