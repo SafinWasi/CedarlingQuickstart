@@ -14,6 +14,11 @@
                     "description": "allow_student_read",
                     "creation_date": "2025-10-23T02:34:43.316922",
                     "policy_content": "QGlkKCJhbGxvd19zdHVkZW50X3JlYWQiKQpwZXJtaXQgKAogIHByaW5jaXBhbCBpbiBKYW5zOjpSb2xlOjoiU3R1ZGVudCIsCiAgYWN0aW9uIGluIFtKYW5zOjpBY3Rpb246OiJSZWFkIl0sCiAgcmVzb3VyY2UKKTs="
+                },
+                "91b2611a1ea9859cb7ce780ca16adf3b2a68f892786a": {
+                    "description": "user_can_read",
+                    "creation_date": "2025-12-17T03:23:22.073817",
+                    "policy_content": "QGlkKCJ1c2VyX2Nhbl9yZWFkIikKcGVybWl0ICgKICBwcmluY2lwYWwgaXMgSmFuczo6VXNlciwKICBhY3Rpb24gPT0gSmFuczo6QWN0aW9uOjoiUmVhZCIsCiAgcmVzb3VyY2UgaXMgSmFuczo6QXBwbGljYXRpb24KKTs="
                 }
             },
             "trusted_issuers": {
