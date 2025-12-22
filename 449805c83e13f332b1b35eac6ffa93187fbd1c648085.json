@@ -6,9 +6,9 @@
             "description": "",
             "policies": {
                 "76acfe86fb09731682f92c4fbf7d2e066813ce639404": {
-                    "description": "allow_teacher",
+                    "description": "allow_teacher_secretdocument",
                     "creation_date": "2025-06-04T14:41:49.809437",
-                    "policy_content": "QGlkKCJhbGxvd190ZWFjaGVyIikKcGVybWl0KAogIHByaW5jaXBhbCBpbiBKYW5zOjpSb2xlOjoiVGVhY2hlciIsCiAgYWN0aW9uLAogIHJlc291cmNlCik7"
+                    "policy_content": "QGlkKCJhbGxvd190ZWFjaGVyX3NlY3JldGRvY3VtZW50IikKcGVybWl0KAogIHByaW5jaXBhbCBpbiBKYW5zOjpSb2xlOjoiVGVhY2hlciIsCiAgYWN0aW9uLAogIHJlc291cmNlIGlzIEphbnM6OlNlY3JldERvY3VtZW50Cik7"
                 },
                 "a6f9c66ddcadeeec9e0f65420c89715b00a835ffdaec": {
                     "description": "allow_student_read",
