@@ -1,0 +1,30 @@
+{
+    "policy_store_id": "6d9f73b2d44ad4e7aa8f1182cde9f72dcbaa244f4327",
+    "generated_date": "2025-12-15T03:48:37.993877+00:00",
+    "files": {
+        "README.md": {
+            "size": 20,
+            "checksum": "sha1:ffdbe684e595937663b81eaca651659dc71794c2"
+        },
+        "schema.cedarschema": {
+            "size": 3766,
+            "checksum": "sha1:8c5d0305e45b7b46341c5333f4ab6a0e4b38a2fc"
+        },
+        "script.py": {
+            "size": 537,
+            "checksum": "sha1:b3ebb52839f47e7ae1fadce91272117077b11d80"
+        },
+        "metadata.json": {
+            "size": 374,
+            "checksum": "sha1:5cab461fdcef06103f1f065fed8c51a9e385da41"
+        },
+        "manifest.json": {
+            "size": 705,
+            "checksum": "sha1:cb99f5c8620cddfceb8bb470ff02fa4e67563250"
+        },
+        "policies/allow_teacher.cedar": {
+            "size": 149,
+            "checksum": "sha1:ca84c3766a8dba1bcc86081c6176f09562bd9a1c"
+        }
+    }
+}
