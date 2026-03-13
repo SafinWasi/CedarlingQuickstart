@@ -3,4 +3,8 @@ permit (
   principal in Jans::Role::"confidential",
   action == Jans::Action::"Read",
   resource is Jans::SecretDocument
-);
+) when {
+  context has tokens.jans_id_token &&
+  context.tokens.jans_id_token.hasTag("role") &&
+  context.tokens.jans_id_token.getTag("role").contains("confidential")
+};
