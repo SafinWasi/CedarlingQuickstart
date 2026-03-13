@@ -1,18 +1,14 @@
 {
     "policy_store_id": "449805c83e13f332b1b35eac6ffa93187fbd1c648085",
-    "generated_date": "2026-03-13T03:23:11.416972+00:00",
+    "generated_date": "2026-03-13T03:23:53.073976+00:00",
     "files": {
         "manifest.json": {
-            "size": 4124,
-            "checksum": "sha1:cffc031fa23cbb2769ff5607693f34dac8bd323b"
+            "size": 4111,
+            "checksum": "sha1:46ac373a7c785359e90fb3f491a3b267180af9b7"
         },
         "metadata.json": {
             "size": 325,
             "checksum": "sha1:d4c87ea5068c99a0da40ea41802b0554b93f62c8"
-        },
-        "policies/6e46e36071466cc37c0e9bbd65f16c51ea2ab152c6fc.cedar": {
-            "size": 129,
-            "checksum": "sha1:ba70df5d5b9d44112fba4ce96ab50e3ac0d38ca2"
         },
         "policies/76acfe86fb09731682f92c4fbf7d2e066813ce639404.cedar": {
             "size": 129,
@@ -69,6 +65,10 @@
         "policies/user_can_read_if_email_is_example.cedar": {
             "size": 308,
             "checksum": "sha1:709cc56403e9e6664106a9e6c39ed663558bd14a"
+        },
+        "policies/user_can_search.cedar": {
+            "size": 165,
+            "checksum": "sha1:9632a82fa98c5844c77b52f2fd47f4dd43ed986c"
         },
         "policies/user_can_tag.cedar": {
             "size": 123,
