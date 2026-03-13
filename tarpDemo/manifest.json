@@ -1,0 +1,94 @@
+{
+    "policy_store_id": "449805c83e13f332b1b35eac6ffa93187fbd1c648085",
+    "generated_date": "2026-03-13T02:28:20.768473+00:00",
+    "files": {
+        "metadata.json": {
+            "size": 325,
+            "checksum": "sha1:1a400d983f713432e611699bd747d23438c54861"
+        },
+        "policies/13b34711a196f382ade96677cefd513a2a6deff1b949.cedar": {
+            "size": 152,
+            "checksum": "sha1:d8e59de682c3fdeffe62017b9026f2063346c504"
+        },
+        "policies/28e83add6e203af0d3814f06228e45a0eeb5c1269b08.cedar": {
+            "size": 240,
+            "checksum": "sha1:15b9f4e017f07666a0c6b093670e53bc9be5fb2f"
+        },
+        "policies/420184da127304d1b2898761893a974096f6dbade45a.cedar": {
+            "size": 227,
+            "checksum": "sha1:da536ecbff7806020db9d1eddbbb72658069d317"
+        },
+        "policies/4ab79a92feac06a1a005373b741ed50e07d23d98f9a5.cedar": {
+            "size": 123,
+            "checksum": "sha1:a473034d33f80704f3a2cac39867f91351587395"
+        },
+        "policies/50c0ea31a9ed25a575b7538dec38cb953431651e7bec.cedar": {
+            "size": 224,
+            "checksum": "sha1:c7cccc3f2d06b10bd0ec6084612eb821df78eddc"
+        },
+        "policies/689edd369c276afb5a163119dcd92c74196a4e0c7bdb.cedar": {
+            "size": 234,
+            "checksum": "sha1:0951e86c967dcd184cd83ff1928917f17422d41e"
+        },
+        "policies/6e46e36071466cc37c0e9bbd65f16c51ea2ab152c6fc.cedar": {
+            "size": 129,
+            "checksum": "sha1:ba70df5d5b9d44112fba4ce96ab50e3ac0d38ca2"
+        },
+        "policies/76acfe86fb09731682f92c4fbf7d2e066813ce639404.cedar": {
+            "size": 129,
+            "checksum": "sha1:b1f618fe1e7eca7d01410f5bca6f313b9f64b58b"
+        },
+        "policies/91b2611a1ea9859cb7ce780ca16adf3b2a68f892786a.cedar": {
+            "size": 125,
+            "checksum": "sha1:50cec10426a21afe2f7fe8cb6bfc9be185f966da"
+        },
+        "policies/9e2f1520bd292765609e8ce57add8d3c134e3a91759d.cedar": {
+            "size": 176,
+            "checksum": "sha1:8fce2dc995abd19a9794d2e23e4a037f36d00e1e"
+        },
+        "policies/a6f9c66ddcadeeec9e0f65420c89715b00a835ffdaec.cedar": {
+            "size": 122,
+            "checksum": "sha1:191c7949720d26a44002b1eacb22e63e35e8fa9a"
+        },
+        "policies/b5111ecf0d218da2cdbece83aeb77cb6b479d3b5d85c.cedar": {
+            "size": 131,
+            "checksum": "sha1:a96a71b7679d9baf6d2169f8f6ee3cd1aff4b841"
+        },
+        "policies/c367d06f19af8db1ec69354044334c799ff4cd2021ae.cedar": {
+            "size": 237,
+            "checksum": "sha1:eb63ca96c7118ce411ce3890675e1a7ba456697a"
+        },
+        "policies/c4729e4ab456b4c8e74102593e5b32e04176bc837cc5.cedar": {
+            "size": 131,
+            "checksum": "sha1:056b1cbe636683ae77a13c540da789e2f2b9b83b"
+        },
+        "policies/e459eba6691d141497dd1317e44d3d5b3bdd9fd65150.cedar": {
+            "size": 165,
+            "checksum": "sha1:a9a8a9f68dff0cd1a69e36caf588076264e8f600"
+        },
+        "policies/e76eb1853f0c6a199ca383cd9714e0113dfd851e079a.cedar": {
+            "size": 131,
+            "checksum": "sha1:b16dd9e2f6513fa1eed36aafd8b5ff3afb9f106e"
+        },
+        "policies/f38f10e80c6f429153cf97781a4c6bcf29761a04259f.cedar": {
+            "size": 207,
+            "checksum": "sha1:1b628765b25e1de50a0b571f13d8e7bc87f81580"
+        },
+        "policies/fe83e4b2338614b970559ce4141b6d3e60559d79282c.cedar": {
+            "size": 206,
+            "checksum": "sha1:f0502fb3eeb91a34f0a65647e1100d3b03ae1053"
+        },
+        "policies/fe84f983188f1639a03ed77c0753fc893fbe0d4cf155.cedar": {
+            "size": 139,
+            "checksum": "sha1:1da6c83ffffc535319e2ef868b4b00a3960b37c1"
+        },
+        "schema.cedarschema": {
+            "size": 3765,
+            "checksum": "sha1:9ab5e508c9209fbd74447b57900075ec6826a411"
+        },
+        "trusted-issuers/1985d6d8767b87d752035c9f9c0078daf057ad2cd5ea.json": {
+            "size": 1608,
+            "checksum": "sha1:c1d55bcc6e0fb8be86d521af53a7a513343b2f9e"
+        }
+    }
+}
