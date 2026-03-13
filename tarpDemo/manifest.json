@@ -1,10 +1,10 @@
 {
     "policy_store_id": "449805c83e13f332b1b35eac6ffa93187fbd1c648085",
-    "generated_date": "2026-03-13T04:30:51.877936+00:00",
+    "generated_date": "2026-03-13T04:31:13.460433+00:00",
     "files": {
         "manifest.json": {
             "size": 3797,
-            "checksum": "sha1:b460e58aa4ccd0108fd159e5bf0e87b18155798f"
+            "checksum": "sha1:ad33882e8497e5ab990f7b31af90d785c79fc190"
         },
         "metadata.json": {
             "size": 325,
@@ -51,8 +51,8 @@
             "checksum": "sha1:4176092cc6f8e8f34c845752b740e9998be33ea1"
         },
         "policies/user_can_read_if_confidential_role.cedar": {
-            "size": 302,
-            "checksum": "sha1:141cf42a8f890e1aefe3703f5b73b9b2f59d5698"
+            "size": 320,
+            "checksum": "sha1:da798dd4a1983901776a1d3b16d7e59a01fac4eb"
         },
         "policies/user_can_read_if_email_is_example.cedar": {
             "size": 308,
