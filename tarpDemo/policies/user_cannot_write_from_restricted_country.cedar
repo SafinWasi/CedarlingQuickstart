@@ -5,6 +5,7 @@ forbid (
   resource is Jans::SecretDocument
 )
 when {
+  context has tokens.jans_userinfo_token &&
   context has geolocation &&
   context.geolocation.contains("restricted")
 };
